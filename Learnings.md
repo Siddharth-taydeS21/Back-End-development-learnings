@@ -76,3 +76,8 @@ Lecture 04 - Starting a full stack backend focused project
 1) how to setup a professional Backend project
 2) some new project files like - `.gitKeep` `.prettierrc` `.prettierignore`. also how to generate .gitignore files using services like `gitignore generators`.
 3) dependencies and dev-dependencies, how to install maintain them & keep them separate. 
+
+Lecture 05 - Connecting the DataBase with project 
+    Learned about : -
+1) how setup a `MongoDb` DataBase using `MongoDb Atlas` service.
+3) how to connect DataBase & backend using `mongoose.connect()` and the `async-await + try-catch` syntax
