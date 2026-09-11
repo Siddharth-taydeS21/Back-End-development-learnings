@@ -59,3 +59,20 @@ While building JavaScript-based backends, ideally, we are going to handle/intera
     ├── env                 → Environment-specific configuration/secrets
     └── lint, prettier, readme, etc
     
+
+Lecture 02 - Connecting frontend with backend 
+    Learned about : -
+1) how to connect the front-end with the backend.
+2) how to resolve cross-origin errors (CORS) & How to set up proxies in front-end configuration.
+3) Built a very basic full-stack project.
+
+Lecture 03 - Data Modeling with Mongoose 
+    Learned about : -
+1) how to create models schemas using the `mongoose.Schema(), mongoose.model()` methods.
+2) how to define relations between models schemas using `type: mongoose.Schema.Types.ObjectId, ref: 'SchemaName'`.
+
+Lecture 04 - Starting a full stack backend focused project  
+    Learned about : -
+1) how to setup a professional Backend project
+2) some new project files like - `.gitKeep` `.prettierrc` `.prettierignore`. also how to generate .gitignore files using services like `gitignore generators`.
+3) dependencies and dev-dependencies, how to install maintain them & keep them separate. 

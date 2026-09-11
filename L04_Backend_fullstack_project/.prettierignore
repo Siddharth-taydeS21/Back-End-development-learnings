@@ -1,0 +1,42 @@
+# Build and output directories
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Cache and logs
+.npm
+.eslintcache
+*.log
+
+# Coverage reports
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Formatting configurations
+.prettierrc
+.prettierignore
+
+# Media and binary files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.pdf
+*.mp4
+
+# Lockfiles (auto-generated)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
