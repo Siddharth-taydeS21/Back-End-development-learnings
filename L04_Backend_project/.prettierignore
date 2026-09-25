@@ -1,0 +1,76 @@
+# ----------------------------------------------------
+# Package Managers & Dependencies
+# ----------------------------------------------------
+node_modules/
+.pnpm-store/
+jspm_packages/
+web_modules/
+
+# ----------------------------------------------------
+# Build Artifacts, Bundles, and Compilations
+# ----------------------------------------------------
+dist/
+build/
+out/
+.next/
+.nuxt/
+.docusaurus/
+.svelte-kit/
+.cache/
+.parcel-cache/
+.turbo/
+package/
+bower_components/
+
+# ----------------------------------------------------
+# Testing and Coverage
+# ----------------------------------------------------
+coverage/
+.nyc_output/
+.jest/
+
+# ----------------------------------------------------
+# IDEs, Editors, and OS-specific Files
+# ----------------------------------------------------
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------------------
+# Logs and Runtime Files
+# ----------------------------------------------------
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+.stylelintcache
+
+# ----------------------------------------------------
+# Lockfiles & Formats Best Managed Externally
+# ----------------------------------------------------
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# ----------------------------------------------------
+# Media, Assets, and Static Files (Optional)
+# ----------------------------------------------------
+# Uncomment below if you want to skip formatting assets
+# public/
+# assets/
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.mp4

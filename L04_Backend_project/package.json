@@ -1,0 +1,18 @@
+{
+  "name": "l04_backend_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^18.0.3",
+    "nodemon": "^3.1.14",
+    "prettier": "3.9.9"
+  }
+}
